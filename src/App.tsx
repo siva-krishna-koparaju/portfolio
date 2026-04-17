@@ -135,7 +135,7 @@ export default function App() {
           <motion.h1 
             initial={{ opacity: 0, x: -20 }}
             animate={{ opacity: 1, x: 0 }}
-            className="text-2xl font-serif"
+            className="text-2xl font-serif pl-[10px]"
           >
             Koparaju Siva Krishna<br /><span className="text-[10px] uppercase tracking-[0.2em] text-accent font-sans font-bold">Full Stack Developer</span>
           </motion.h1>
